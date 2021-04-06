@@ -1,16 +1,8 @@
 {
    "appversion": [
     {
-      "name": "Angular",
-      "icon": "logo-angular"
-    },
-    {
-      "name": "Documentation",
-      "icon": "document"
-    },
-    {
-      "name": "Physics",
-      "icon": "restaurant"
+      "version1": "1",
+      "version2": "2"
     }
   ],
  
