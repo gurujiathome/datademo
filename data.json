@@ -403,6 +403,48 @@
           "chapterName":"Chemistry in everyday Life",
           "chapterLink":"",
           "credits":"@mahohar"
+          },
+         {
+          "id":"26",
+          "chapterName":"Mole Concept",
+          "chapterLink":"https://drive.google.com/file/d/0ByRkvg8lBuWYdXFBNVZyOHdSVVE/view?usp=drivesdk",
+          "credits":"@mahohar"
+          },
+         {
+          "id":"27",
+          "chapterName":"Periodic Table",
+          "chapterLink":"https://drive.google.com/file/d/0ByRkvg8lBuWYVm1fR0ZmSW1IYjg/view?usp=drivesdk",
+          "credits":"@mahohar"
+          },
+         {
+          "id":"28",
+          "chapterName":"Chemical Bonding",
+          "chapterLink":"https://drive.google.com/file/d/0ByRkvg8lBuWYWkZ4TVg3cG9XREU/view?usp=drivesdk",
+          "credits":"@mahohar"
+          },
+         {
+          "id":"29",
+          "chapterName":"Gaseous State",
+          "chapterLink":"https://drive.google.com/file/d/0ByRkvg8lBuWYYTNkYVJGS0pibVU/view?usp=drivesdk",
+          "credits":"@mahohar"
+          },
+         {
+          "id":"30",
+          "chapterName":"Thermodynamics and Thermochemistry",
+          "chapterLink":"https://drive.google.com/file/d/1CA0cVu3-ALYuAm0IzC8YXbK7-7f33Ceg/view",
+          "credits":"@mahohar"
+          },
+         {
+          "id":"31",
+          "chapterName":"Chemical Equilibrium",
+          "chapterLink":"https://drive.google.com/file/d/0ByRkvg8lBuWYMHhZbFJLdDZlSXM/view?usp=drivesdk",
+          "credits":"@mahohar"
+          },
+         {
+          "id":"32",
+          "chapterName":"Ionic Equilibrium",
+          "chapterLink":"https://drive.google.com/file/d/0ByRkvg8lBuWYQll0cEMwMW05cWM/view?usp=drivesdk",
+          "credits":"@mahohar"
           }
       ],
       "id":"1",
