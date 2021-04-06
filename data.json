@@ -1,10 +1,18 @@
 {
-  "appDetails":[
+   "appversion": [
     {
-  "version1":"1",
-  "version2":"2"
-  }
-],
+      "name": "Angular",
+      "icon": "logo-angular"
+    },
+    {
+      "name": "Documentation",
+      "icon": "document"
+    },
+    {
+      "name": "Physics",
+      "icon": "restaurant"
+    }
+  ],
  
   "schedule": [
     {
