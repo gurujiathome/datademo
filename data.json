@@ -1,4 +1,9 @@
 {
+  "appDetails":[
+  "version1":"1",
+  "version2":"2"
+],
+ 
   "schedule": [
     {
       "date": "2047-05-17",
